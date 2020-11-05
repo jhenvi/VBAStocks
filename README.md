@@ -1,6 +1,5 @@
 # VBAStocks
  VBA scripting to analyze real stock market data
-# VBA Homework - The VBA of Wall Street
 
 ## Background
 
